@@ -11,6 +11,13 @@ Know Your Food.
 - Make decisions to eat food based on your genetic code and avoid chemicals that cause disease you are genetically susceptible to.
 - Find better food opitions at near-same price via our food suggestions.
 
-Demo Images:
+Demo:
+
+- Main Page App Open
 
 ![Main Page App Open](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C_landing.jpg)
+
+- Product Scanned without login
+
+![Product Scanned](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C%20Product%20page.jpg)
+
