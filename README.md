@@ -10,3 +10,6 @@ Know Your Food.
 - Know if there are any harmful chemicals inside the food you buy.
 - Make decisions to eat food based on your genetic code and avoid chemicals that cause disease you are genetically susceptible to.
 - Find better food opitions at near-same price via our food suggestions.
+
+Demo Images:
+![Test Image 1](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C_landing.jpg)
