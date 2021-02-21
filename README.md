@@ -21,7 +21,7 @@ Demo:
 
 ![Product Scanned](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C%20Product%20page.jpg)
 
-- Product Scanned after login
+- Product Scanned after login (bifenthrin highlighted as it is cancer causing and user's genetic code says user is vulnerable to cancer)
 
 ![Registered Product Page](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C%20Product%20page-%20log%20in.jpg)
 
