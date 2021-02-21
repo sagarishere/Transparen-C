@@ -21,3 +21,7 @@ Demo:
 
 ![Product Scanned](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C%20Product%20page.jpg)
 
+- Product Scanned after login
+
+![Registered Product Page](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C%20Product%20page-%20log%20in.jpg)
+
