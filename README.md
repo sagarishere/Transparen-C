@@ -12,4 +12,5 @@ Know Your Food.
 - Find better food opitions at near-same price via our food suggestions.
 
 Demo Images:
-![Test Image 1](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C_landing.jpg)
+
+![Main Page App Open](https://github.com/sagarishere/Transparen-C/blob/master/images/demo/Transparen-C_landing.jpg)
